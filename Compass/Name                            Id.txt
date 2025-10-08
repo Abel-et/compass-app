@@ -1,0 +1,5 @@
+Name                            Id             Section
+Abel Tadesse         UGR/30045/15		2
+Natnael Yilma        UGR/31044/15		1
+Ayub Nasir            UGR/30219/15    	2
+Megresa Tekalign   UGR/31494/15   	2

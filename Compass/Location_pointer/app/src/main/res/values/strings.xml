@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Location_pointer</string>
+    <string name="compass">CurrentDirection</string>
+    <string name="back">Background</string>
+    <string name="text">About</string>
+    <string name="degree">N</string>
+    <string name="table">logo</string>
+
+
+</resources>
